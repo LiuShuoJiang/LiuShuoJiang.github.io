@@ -1,13 +1,20 @@
 var relearn_search_index = [
   {
-    "content": "My Profile This folder includes basic information about myself (still under construction).\nQuick Facts about Shuojiang Liu ",
+    "content": "March 12th, 2023 🎉🎉🎉 Liu Shuojiang has earned a spot at some prestigious graduate institution after tremendous effort. (He has not determined which school he will attend yet.)\n",
+    "description": "",
+    "tags": null,
+    "title": "News",
+    "uri": "/archives/news/index.html"
+  },
+  {
+    "content": "My Profile This folder includes basic information about myself (still under construction).\nNews Quick Facts about Shuojiang Liu ",
     "description": "",
     "tags": null,
     "title": "Profile",
     "uri": "/archives/index.html"
   },
   {
-    "content": "👋 The following informal content can help you quickly understand Shuojiang Liu Life Expand to view... He never smokes. He never consumes alcohol and disapproves of “drinking table culture.” He rarely drinks coffee. He seldom ever updates any changes to either his QQ Space or WeChat Moments. He speaks Mandarin and English fluently and is currently planning to learn Japanese. Entertainment and Hobbies Expand to view... He abhors entertainment that is hypocritical. Lu Xun and Dostoyevsky are his favorite authors. He enjoys watching 2D animation, and his favorite animation studio is GAINAX. His favorite animation directors are Yuasa Masaaki and Tsurumaki Kazuya, and his favorite original artist is Yoshinari Yoshi. Personality and Values Expand to view... Although he is not extroverted, he is neither shy nor awkward. He is a serious person who is not adept at cracking jokes and dislikes being made fun of. He is highly attuned to the semantic and affective aspects of interpersonal communication, advocates for equal communication, and opposes all forms of verbal and mental bullying. He believes that conveying accurate information in conversation is more important than telling white lies with “high emotional intelligence.” He was a steadfast supporter of science and democracy, and he was opposed to absolutism, anti-intellectualism, and historical nihilism. ",
+    "content": "The following informal content can help you quickly understand Shuojiang Liu 👋👋👋 Pre-viewing Tips The information provided below is highly subjective and presented in an unprofessional manner, and the presentation itself is not yet rigorous.\nLife 🧩 Expand to view... He is a lifelong nonsmoker. He never consumes alcohol and disapproves of “drinking table culture.” He rarely drinks coffee. He seldom ever updates any changes to either his QQ Space or WeChat Moments. He speaks Mandarin and English fluently and is currently planning to learn Japanese. Entertainment and Hobbies ✨ Expand to view... He abhors entertainment that is hypocritical. Lu Xun and Dostoyevsky are his favorite authors. He enjoys watching 2D animation, and his favorite animation studio is GAINAX. His favorite animation directors are Yuasa Masaaki and Tsurumaki Kazuya, and his favorite original artist is Yoshinari Yoshi. Personality and Values ✒️ Expand to view... Although he is not extroverted, he is neither shy nor awkward. He is a serious person who is not adept at cracking jokes and dislikes being made fun of. He is highly attuned to the semantic and affective aspects of interpersonal communication, advocates for equal communication, and opposes all forms of verbal and mental bullying. He believes that conveying accurate information in conversation is more important than telling white lies with “high emotional intelligence.” He was a steadfast supporter of science and democracy, and he was opposed to absolutism, anti-intellectualism, and historical nihilism. ",
     "description": "",
     "tags": null,
     "title": "Quick Facts about Shuojiang Liu",
