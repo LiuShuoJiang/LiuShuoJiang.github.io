@@ -7,7 +7,7 @@ var relearn_search_index = [
     "uri": "/calendar/index.html"
   },
   {
-    "content": " Notice The following content documents noteworthy news about my personal life.\nMarch 14th, 2023 🎉🎉🎉 Liu Shuojiang was awarded the honorary title of Distinguished Graduate by Xi’an Jiaotong University.\n",
+    "content": " Notice The following content documents noteworthy news about my personal life.\nMarch 21st, 2023 I attended the Singapore HCI 2023 Annual Gathering.\nMarch 14th, 2023 🎉🎉🎉 I was awarded the honorary title of Distinguished Graduate by Xi’an Jiaotong University.\n",
     "description": "",
     "tags": null,
     "title": "News",
