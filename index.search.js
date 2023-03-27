@@ -1,6 +1,6 @@
 var relearn_search_index = [
   {
-    "content": "Listed below is my weekly schedule. Please note that this schedule only includes my primary classes, work, and meetings, and not my entire work schedule. Please send me an Outlook schedule based on the time slot if you would like to schedule a meeting with me. The schedule is in accordance with Beijing time (GMT+8).\n",
+    "content": " Note Please enable third-party cookies in your browser to load this page correctly.\nListed below is my weekly schedule. Please note that this schedule only includes my primary classes, work, and meetings, and not my entire work schedule. Please send me an Outlook schedule based on the time slot if you would like to schedule a meeting with me. The schedule is in accordance with Beijing time (GMT+8).\n",
     "description": "",
     "tags": null,
     "title": "My Calendar",
