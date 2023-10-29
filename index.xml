@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shuojiang Liu&#39;s Personal Website [Beta] on Shuojiang Liu&#39;s Personal Website</title>
+    <title>Shuojiang Liu on Shuojiang Liu&#39;s Personal Website</title>
     <link>https://LiuShuoJiang.github.io/index.html</link>
-    <description>Recent content in Shuojiang Liu&#39;s Personal Website [Beta] on Shuojiang Liu&#39;s Personal Website</description>
+    <description>Recent content in Shuojiang Liu on Shuojiang Liu&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 17:15:15 +0800</lastBuildDate><atom:link href="https://LiuShuoJiang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 17:15:15 +0800</lastBuildDate>
+    <atom:link href="https://LiuShuoJiang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://LiuShuoJiang.github.io/archives/index.html</link>
+      <pubDate>Mon, 27 Feb 2023 19:21:12 +0800</pubDate>
+      <guid>https://LiuShuoJiang.github.io/archives/index.html</guid>
+      <description>This folder includes basic information about myself (still under construction).
+Memorable Moments Quick Facts about Shuojiang Liu </description>
+    </item>
     <item>
       <title>My Calendar</title>
       <link>https://LiuShuoJiang.github.io/calendar/index.html</link>
       <pubDate>Sun, 19 Mar 2023 11:32:34 +0800</pubDate>
       <guid>https://LiuShuoJiang.github.io/calendar/index.html</guid>
-      <description>Note Please allow third-party cookies in your browser to load this page correctly.
-Listed below is my weekly schedule. Note that this schedule only includes my primary classes and meetings, and not my entire work schedule. The schedule is in accordance with Eastern Time (UTC-5:00).</description>
-    </item>
-    <item>
-      <title>Profile</title>
-      <link>https://LiuShuoJiang.github.io/archives/index.html</link>
-      <pubDate>Mon, 27 Feb 2023 19:21:12 +0800</pubDate>
-      <guid>https://LiuShuoJiang.github.io/archives/index.html</guid>
-      <description>My Profile This folder includes basic information about myself (still under construction).
-News Quick Facts about Shuojiang Liu </description>
+      <description>Note You might need to allow third-party cookies in your browser to load this page correctly.
+Listed below is my weekly schedule. Note that this schedule only includes my primary classes and activities, but not my entire work schedule. The schedule is in accordance with Eastern Time (UTC-5:00).</description>
     </item>
   </channel>
 </rss>
