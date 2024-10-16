@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shuojiang Liu on Shuojiang Liu&#39;s Personal Website</title>
+    <title>Shuojiang Liu :: Shuojiang</title>
     <link>https://LiuShuoJiang.github.io/index.html</link>
-    <description>Recent content in Shuojiang Liu on Shuojiang Liu&#39;s Personal Website</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Master’s Student 👤, Georgia Institute of Technology 🏫&#xA;Email 📠: shuojiang@gatech.edu&#xA;Short Biography 📸 Shuojiang Liu is a master’s student at Georgia Institute of Technology (Georgia Tech) with a major in Computational Science and Engineering.&#xA;Before joining Georgia Tech, he obtained his Bachelor of Engineering (Honors Engineering Program) degree from Xi’an Jiaotong University (XJTU), majoring in Automation and Control Engineering at Qian Xuesen Honors College (administrative) and School of Automation Science and Engineering (professional).&#xA;From December 2022 to June 2023, he exchanged at School of Computing (SoC) from National University of Singapore (NUS).</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Feb 2023 17:15:15 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 11:32:34 +0800</lastBuildDate>
     <atom:link href="https://LiuShuoJiang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Miscellaneous</title>
       <link>https://LiuShuoJiang.github.io/archives/index.html</link>
       <pubDate>Mon, 27 Feb 2023 19:21:12 +0800</pubDate>
       <guid>https://LiuShuoJiang.github.io/archives/index.html</guid>
-      <description>This folder includes basic information about myself (still under construction).
-Memorable Moments Quick Facts about Shuojiang Liu </description>
+      <description>This folder includes basic information about myself (still under construction).&#xA;Memorable Moments Quick Facts about Shuojiang Liu</description>
     </item>
     <item>
       <title>My Calendar</title>
       <link>https://LiuShuoJiang.github.io/calendar/index.html</link>
       <pubDate>Sun, 19 Mar 2023 11:32:34 +0800</pubDate>
       <guid>https://LiuShuoJiang.github.io/calendar/index.html</guid>
-      <description>Note You might need to allow third-party cookies in your browser to load this page correctly.
-Listed below is my weekly schedule. Note that this schedule only includes my primary classes and activities, but not my entire work schedule. The schedule is in accordance with Eastern Time (UTC-5:00).</description>
+      <description>Note You might need to allow third-party cookies in your browser to load this page correctly.&#xA;Listed below is my weekly schedule. Note that this schedule only includes my primary classes and activities, but not my entire work schedule. The schedule is in accordance with Eastern Time (UTC-5:00).</description>
     </item>
   </channel>
 </rss>
