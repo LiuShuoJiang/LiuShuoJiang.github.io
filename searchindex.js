@@ -9,8 +9,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Shuojiang Liu",
-    "content": "Note You might need to allow third-party cookies in your browser to load this page correctly.\nListed below is my weekly schedule. Note that this schedule only includes my primary classes and activities, but not my entire work schedule. The schedule is in accordance with Eastern Time (UTC-5:00).",
-    "description": "Note You might need to allow third-party cookies in your browser to load this page correctly.\nListed below is my weekly schedule. Note that this schedule only includes my primary classes and activities, but not my entire work schedule. The schedule is in accordance with Eastern Time (UTC-5:00).",
+    "content": "Note My calendar is currently private and available upon request. Please contact me directly if you would like to know my schedule.\nTo be published…",
+    "description": "Note My calendar is currently private and available upon request. Please contact me directly if you would like to know my schedule.\nTo be published…",
     "tags": [],
     "title": "My Calendar",
     "uri": "/calendar/index.html"
